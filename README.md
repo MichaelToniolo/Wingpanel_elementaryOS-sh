@@ -1,1 +1,0 @@
-# Wingpanel_elementaryOS-sh
